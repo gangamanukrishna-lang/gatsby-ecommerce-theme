@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Velvet Archive artwork placeholder</title>
+  <desc id="desc">A moody, layered editorial artwork with rich autumnal tones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#201d1f"/>
+      <stop offset="35%" stop-color="#814a2a"/>
+      <stop offset="100%" stop-color="#d9bb8d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="95" y="95" width="710" height="1010" fill="rgba(20,20,22,0.42)" stroke="rgba(255,255,255,0.2)"/>
+  <circle cx="505" cy="415" r="190" fill="rgba(241,192,130,0.3)"/>
+  <path d="M180 902C244 795 310 710 390 640C510 545 584 592 670 662C752 727 820 826 850 938L900 1200H0L120 990C128 965 148 933 180 902Z" fill="#3a2f2b" opacity="0.75"/>
+  <path d="M210 280L430 410L470 860L260 1010L130 760Z" fill="#ab6d3a" opacity="0.75"/>
+  <path d="M600 260L780 350L786 870L630 1000L530 760Z" fill="#d9ad6a" opacity="0.5"/>
+  <g fill="#f2dec3" opacity="0.6">
+    <path d="M312 284H408V480H312Z"/>
+    <path d="M500 212H648V520H500Z"/>
+  </g>
+</svg>

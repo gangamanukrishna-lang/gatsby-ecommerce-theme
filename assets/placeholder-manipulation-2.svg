@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Cinder Crown artwork placeholder</title>
+  <desc id="desc">A dramatic portrait-like composition with stone textures and warm glow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#d7c2a7"/>
+      <stop offset="50%" stop-color="#985f3d"/>
+      <stop offset="100%" stop-color="#1d1a1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="730" cy="260" r="160" fill="rgba(255,182,96,0.45)"/>
+  <path d="M160 1020C250 876 315 760 360 642C390 564 438 472 460 420C477 376 534 350 590 364C655 379 718 441 764 515C804 576 828 643 846 760L900 1200H0L80 1080C107 1050 123 1034 160 1020Z" fill="#1f1d20" opacity="0.8"/>
+  <path d="M315 990C342 800 360 620 428 500C470 432 535 388 607 386C661 384 718 409 764 456C693 470 634 509 588 564C529 635 491 719 460 820C428 923 400 958 315 990Z" fill="#b88453" opacity="0.55"/>
+  <g fill="#d9d0c5" opacity="0.75">
+    <rect x="220" y="150" width="120" height="260" rx="18"/>
+    <rect x="344" y="120" width="168" height="300" rx="20"/>
+    <rect x="518" y="162" width="128" height="250" rx="18"/>
+  </g>
+</svg>

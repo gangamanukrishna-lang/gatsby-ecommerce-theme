@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Cup Day poster placeholder</title>
+  <desc id="desc">A dramatic competition-design placeholder with a moody football feel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#122723"/>
+      <stop offset="50%" stop-color="#8b512f"/>
+      <stop offset="100%" stop-color="#0d0d0f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <path d="M80 890C180 810 256 592 360 560C500 517 585 602 670 660C770 729 824 865 900 960V1200H0L80 890Z" fill="#1b2728" opacity="0.8"/>
+  <path d="M200 1030L315 470H570L705 1030Z" fill="#cdb17d" opacity="0.48"/>
+  <text x="450" y="290" text-anchor="middle" fill="#f4efe9" font-size="110" font-family="Arial, sans-serif" font-weight="700">CUP</text>
+  <text x="450" y="620" text-anchor="middle" fill="#f3d9b0" font-size="74" font-family="Arial, sans-serif" font-weight="700">DAY</text>
+  <text x="450" y="780" text-anchor="middle" fill="#e1e1dc" font-size="36" font-family="Arial, sans-serif" letter-spacing="10">FINAL</text>
+</svg>

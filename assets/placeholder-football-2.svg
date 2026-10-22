@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Starting XI football placeholder</title>
+  <desc id="desc">A player campaign poster with stark typography and stadium atmosphere.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0e1213"/>
+      <stop offset="40%" stop-color="#233b39"/>
+      <stop offset="100%" stop-color="#101113"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <g opacity="0.58">
+    <circle cx="240" cy="260" r="150" fill="#d1a971"/>
+    <circle cx="640" cy="300" r="180" fill="#953d26"/>
+  </g>
+  <path d="M120 1030L360 500H550L760 1030Z" fill="#a35c3b" opacity="0.8"/>
+  <path d="M180 950L320 620H440L560 950Z" fill="#efe8df" opacity="0.45"/>
+  <text x="450" y="360" text-anchor="middle" fill="#f5f1ec" font-size="98" font-family="Arial, sans-serif" font-weight="700">XI</text>
+  <text x="450" y="620" text-anchor="middle" fill="#efe7db" font-size="60" font-family="Arial, sans-serif" font-weight="700">STARTING</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Video placeholder poster</title>
+  <desc id="desc">A dark cinematic poster suitable for a video project placeholder.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101519"/>
+      <stop offset="50%" stop-color="#233138"/>
+      <stop offset="100%" stop-color="#0a0d11"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1270" cy="170" r="170" fill="rgba(246,179,95,0.22)"/>
+  <path d="M165 650L570 400L880 690L1020 520L1430 660V900H165Z" fill="#1a2b33" opacity="0.82"/>
+  <path d="M300 420H1300V520H300Z" fill="#d4c7af" opacity="0.48"/>
+  <text x="800" y="485" text-anchor="middle" fill="#f6efe5" font-size="96" font-family="Arial, sans-serif" font-weight="700">VIDEO</text>
+</svg>

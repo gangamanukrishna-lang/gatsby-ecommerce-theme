@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Matchday Stadium artwork placeholder</title>
+  <desc id="desc">A stadium campaign visual with pitch, stands, and atmospheric light.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1a1f"/>
+      <stop offset="50%" stop-color="#102218"/>
+      <stop offset="100%" stop-color="#090d10"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <rect x="90" y="720" width="720" height="250" fill="#0d563e" opacity="0.8"/>
+  <rect x="130" y="230" width="640" height="180" fill="#4a5960" opacity="0.78"/>
+  <path d="M0 1080L165 920L350 930L460 790L620 880L900 1020V1200H0Z" fill="#0b0e10" opacity="0.8"/>
+  <text x="450" y="360" text-anchor="middle" fill="#f0eee9" font-size="88" font-family="Arial, sans-serif" font-weight="700">STADIUM</text>
+  <text x="450" y="820" text-anchor="middle" fill="#edf0ee" font-size="56" font-family="Arial, sans-serif" font-weight="700">MATCHDAY</text>
+</svg>

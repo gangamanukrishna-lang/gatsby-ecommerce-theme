@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Football poster placeholder</title>
+  <desc id="desc">A football campaign poster with dramatic stadium-style composition.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#111b17"/>
+      <stop offset="55%" stop-color="#1d2928"/>
+      <stop offset="100%" stop-color="#080b0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <circle cx="690" cy="238" r="170" fill="rgba(240,170,80,0.18)"/>
+  <path d="M0 900L170 720L378 750L420 535L540 500L640 630L900 600V1200H0Z" fill="#172724" opacity="0.8"/>
+  <path d="M250 760L420 460L600 530L700 760L558 1016H394Z" fill="#3a7668" opacity="0.67"/>
+  <path d="M200 260H700V420H200Z" fill="#ddc8ae" opacity="0.7"/>
+  <text x="450" y="345" text-anchor="middle" fill="#111111" font-size="86" font-family="Arial, sans-serif" font-weight="700">MATCHDAY</text>
+  <text x="450" y="612" text-anchor="middle" fill="#f0ece6" font-size="70" font-family="Arial, sans-serif" font-weight="700">STADIUM</text>
+</svg>

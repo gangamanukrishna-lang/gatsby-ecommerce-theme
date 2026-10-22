@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">North Hall artwork placeholder</title>
+  <desc id="desc">An abstract architectural composition with warm amber light and layered shadows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#cda56f"/>
+      <stop offset="46%" stop-color="#6d4d3d"/>
+      <stop offset="100%" stop-color="#17191b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1200" fill="url(#bg)"/>
+  <path d="M0 940L165 730L380 760L620 620L900 678V1200H0Z" fill="#201a17" opacity="0.75"/>
+  <rect x="220" y="260" width="500" height="620" fill="#b9895d" opacity="0.35"/>
+  <path d="M260 860L426 550H474L648 860Z" fill="#f2d0a5" opacity="0.45"/>
+  <path d="M270 240L412 170L530 232L604 302L466 338L352 318Z" fill="#f0d9b0" opacity="0.4"/>
+  <g fill="#ebdfd3" opacity="0.5">
+    <rect x="290" y="340" width="96" height="240"/>
+    <rect x="408" y="320" width="120" height="260"/>
+    <rect x="548" y="348" width="94" height="240"/>
+  </g>
+</svg>
